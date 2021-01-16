@@ -178,6 +178,7 @@ public:
 		Sleep(800);
 
 		std::cout << "Because of your new found strength, your attack points increased to 20!\n";
+		Sleep(1000);
 		system("cls");
 	}
 	
